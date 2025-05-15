@@ -47,9 +47,10 @@ To develop a compact, Arduino-compatible mixed-signal PCB using ATmega328P and U
 
 ## 📎 Files
 
-- [`/gerbers`](./gerbers): Gerber files for board fabrication
-- [`/docs`](./docs): Schematic, layout image, optional stackup
-- [`/bom`](./bom): Bill of Materials
+- [`/Gerber`](./Gerber): Gerber files for board fabrication
+- [`/ODB++`](./ODB++): Full manufacturing format
+- [`/Documents`](./Documents): Schematic, layout image, optional stackup
+- [`/BOM`](./BOM): Bill of Materials
 
 > ⚠️ This board is not yet fabricated. Designed using OrCAD as part of training under Hasofu Academy.
 
